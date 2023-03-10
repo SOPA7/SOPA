@@ -40,3 +40,8 @@ form input[type="submit"] {
     font-family: cairo;
     font-weight: bold;
 }
+
+h1 {
+font-family: cairo, sans-serif;
+color: white;
+}
